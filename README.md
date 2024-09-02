@@ -1,6 +1,6 @@
 # Medical_appointment_Comet.ML_PROJECT
 
-![](images/image_for_readme_eda_project.png)
+![](Images/image_for_readme_eda_project.png)
 
 ## Примечание:
 Для данной работы требовалась установка отдельных библиотек для python:
